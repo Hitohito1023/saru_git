@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-fadfafadfasdfasdfasdfasdfasd
-=======
 あｓｄふぁｓｄ
->>>>>>> d88d7e68a967a483a16313749cf0142c465b848e
+
+
