@@ -1,3 +1,9 @@
 sdfsdfgsdgsdfgs
 
+<<<<<<< HEAD
 asdfasdfasdf
+=======
+fadfasdfasdf
+
+asdfasdfas
+>>>>>>> 5462d6b0a36d7ad87b5320e70161c8517b66a923
