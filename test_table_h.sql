@@ -5,6 +5,8 @@ VALUES (
     name,
     email,
     address,
-    birthday
+    birthday,
+    tel,
+    hobby
 )
 ;
