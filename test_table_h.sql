@@ -1,5 +1,5 @@
 INSERT INTO
-    test_table_l
+    test_table_h
 VALUES (
     id,
     name,
